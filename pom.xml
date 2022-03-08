@@ -50,7 +50,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>hello-world-rest-api</finalName>
+		<finalName>ROOT</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
