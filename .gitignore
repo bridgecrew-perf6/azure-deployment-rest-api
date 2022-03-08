@@ -1,0 +1,29 @@
+# Exclude Maven folders
+target/
+
+# Exclude Maven files
+dependency-reduced-pom.xml
+
+# Exclude Eclipse folders
+.settings/
+.apt_generated/
+
+# Exclude Eclipse files
+.project
+.classpath
+.factorypath
+
+# Exclude Dimension folders
+.dm/
+.metadata/
+
+# Exclude Binary files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.zip3
+*.tar.gz
+*.rar
+
